@@ -1,0 +1,452 @@
+[
+  {
+    "date": "2026-11-03",
+    "fc_name": "FC-Mumbai",
+    "line_item": "Packaging Cost",
+    "actual_pct": 12.0,
+    "target_range": "5.0-10.0%",
+    "deviation": 2.0,
+    "status": "BREACH_HIGH",
+    "severity": "MEDIUM"
+  },
+  {
+    "date": "2026-11-05",
+    "fc_name": "FC-Delhi",
+    "line_item": "CM1",
+    "actual_pct": 54.5,
+    "target_range": "65.0-70.0%",
+    "deviation": -10.5,
+    "status": "BREACH_LOW",
+    "severity": "HIGH"
+  },
+  {
+    "date": "2026-11-05",
+    "fc_name": "FC-Delhi",
+    "line_item": "CM2",
+    "actual_pct": 8.5,
+    "target_range": "15.0-30.0%",
+    "deviation": -6.5,
+    "status": "BREACH_LOW",
+    "severity": "HIGH"
+  },
+  {
+    "date": "2026-11-05",
+    "fc_name": "FC-Delhi",
+    "line_item": "Manpower Cost",
+    "actual_pct": 36.0,
+    "target_range": "20.0-28.0%",
+    "deviation": 8.0,
+    "status": "BREACH_HIGH",
+    "severity": "MEDIUM"
+  },
+  {
+    "date": "2026-11-05",
+    "fc_name": "FC-Delhi",
+    "line_item": "Power & Fuel",
+    "actual_pct": 11.0,
+    "target_range": "3.0-7.0%",
+    "deviation": 4.0,
+    "status": "BREACH_HIGH",
+    "severity": "MEDIUM"
+  },
+  {
+    "date": "2026-11-05",
+    "fc_name": "FC-Delhi",
+    "line_item": "FC Rent",
+    "actual_pct": 23.0,
+    "target_range": "8.0-15.0%",
+    "deviation": 8.0,
+    "status": "BREACH_HIGH",
+    "severity": "MEDIUM"
+  },
+  {
+    "date": "2026-11-06",
+    "fc_name": "FC-Bangalore",
+    "line_item": "CM2",
+    "actual_pct": 43.5,
+    "target_range": "15.0-30.0%",
+    "deviation": 13.5,
+    "status": "BREACH_HIGH",
+    "severity": "HIGH"
+  },
+  {
+    "date": "2026-11-08",
+    "fc_name": "FC-Bangalore",
+    "line_item": "Overheads",
+    "actual_pct": 9.0,
+    "target_range": "3.0-7.0%",
+    "deviation": 2.0,
+    "status": "BREACH_HIGH",
+    "severity": "MEDIUM"
+  },
+  {
+    "date": "2026-11-09",
+    "fc_name": "FC-Delhi",
+    "line_item": "CM1",
+    "actual_pct": 56.2,
+    "target_range": "65.0-70.0%",
+    "deviation": -8.8,
+    "status": "BREACH_LOW",
+    "severity": "HIGH"
+  },
+  {
+    "date": "2026-11-09",
+    "fc_name": "FC-Delhi",
+    "line_item": "Manpower Cost",
+    "actual_pct": 34.0,
+    "target_range": "20.0-28.0%",
+    "deviation": 6.0,
+    "status": "BREACH_HIGH",
+    "severity": "MEDIUM"
+  },
+  {
+    "date": "2026-11-09",
+    "fc_name": "FC-Delhi",
+    "line_item": "Power & Fuel",
+    "actual_pct": 9.5,
+    "target_range": "3.0-7.0%",
+    "deviation": 2.5,
+    "status": "BREACH_HIGH",
+    "severity": "MEDIUM"
+  },
+  {
+    "date": "2026-11-09",
+    "fc_name": "FC-Delhi",
+    "line_item": "FC Rent",
+    "actual_pct": 21.0,
+    "target_range": "8.0-15.0%",
+    "deviation": 6.0,
+    "status": "BREACH_HIGH",
+    "severity": "MEDIUM"
+  },
+  {
+    "date": "2026-11-10",
+    "fc_name": "FC-Mumbai",
+    "line_item": "Revenue",
+    "actual_pct": 0.0,
+    "target_range": "0.0-0.0%",
+    "deviation": 0.0,
+    "status": "ZERO_REVENUE",
+    "severity": "INFO"
+  },
+  {
+    "date": "2026-11-12",
+    "fc_name": "FC-Mumbai",
+    "line_item": "CM1",
+    "actual_pct": 57.0,
+    "target_range": "65.0-70.0%",
+    "deviation": -8.0,
+    "status": "BREACH_LOW",
+    "severity": "HIGH"
+  },
+  {
+    "date": "2026-11-12",
+    "fc_name": "FC-Mumbai",
+    "line_item": "CM2",
+    "actual_pct": 9.0,
+    "target_range": "15.0-30.0%",
+    "deviation": -6.0,
+    "status": "BREACH_LOW",
+    "severity": "HIGH"
+  },
+  {
+    "date": "2026-11-12",
+    "fc_name": "FC-Mumbai",
+    "line_item": "Packaging Cost",
+    "actual_pct": 17.0,
+    "target_range": "5.0-10.0%",
+    "deviation": 7.0,
+    "status": "BREACH_HIGH",
+    "severity": "MEDIUM"
+  },
+  {
+    "date": "2026-11-12",
+    "fc_name": "FC-Mumbai",
+    "line_item": "FC Rent",
+    "actual_pct": 25.0,
+    "target_range": "8.0-15.0%",
+    "deviation": 10.0,
+    "status": "BREACH_HIGH",
+    "severity": "MEDIUM"
+  },
+  {
+    "date": "2026-11-12",
+    "fc_name": "FC-Mumbai",
+    "line_item": "Overheads",
+    "actual_pct": 14.0,
+    "target_range": "3.0-7.0%",
+    "deviation": 7.0,
+    "status": "BREACH_HIGH",
+    "severity": "MEDIUM"
+  },
+  {
+    "date": "2026-11-14",
+    "fc_name": "FC-Delhi",
+    "line_item": "Equipment Rentals",
+    "actual_pct": 7.0,
+    "target_range": "2.0-5.0%",
+    "deviation": 2.0,
+    "status": "BREACH_HIGH",
+    "severity": "MEDIUM"
+  },
+  {
+    "date": "2026-11-18",
+    "fc_name": "FC-Delhi",
+    "line_item": "CM1",
+    "actual_pct": 81.0,
+    "target_range": "65.0-70.0%",
+    "deviation": 11.0,
+    "status": "BREACH_HIGH",
+    "severity": "HIGH"
+  },
+  {
+    "date": "2026-11-18",
+    "fc_name": "FC-Delhi",
+    "line_item": "CM2",
+    "actual_pct": 70.5,
+    "target_range": "15.0-30.0%",
+    "deviation": 40.5,
+    "status": "BREACH_HIGH",
+    "severity": "HIGH"
+  },
+  {
+    "date": "2026-11-18",
+    "fc_name": "FC-Delhi",
+    "line_item": "Manpower Cost",
+    "actual_pct": 16.0,
+    "target_range": "20.0-28.0%",
+    "deviation": -4.0,
+    "status": "BREACH_LOW",
+    "severity": "MEDIUM"
+  },
+  {
+    "date": "2026-11-18",
+    "fc_name": "FC-Delhi",
+    "line_item": "Packaging Cost",
+    "actual_pct": 3.0,
+    "target_range": "5.0-10.0%",
+    "deviation": -2.0,
+    "status": "BREACH_LOW",
+    "severity": "MEDIUM"
+  },
+  {
+    "date": "2026-11-18",
+    "fc_name": "FC-Delhi",
+    "line_item": "Power & Fuel",
+    "actual_pct": 1.5,
+    "target_range": "3.0-7.0%",
+    "deviation": -1.5,
+    "status": "BREACH_LOW",
+    "severity": "MEDIUM"
+  },
+  {
+    "date": "2026-11-18",
+    "fc_name": "FC-Delhi",
+    "line_item": "FC Rent",
+    "actual_pct": 6.0,
+    "target_range": "8.0-15.0%",
+    "deviation": -2.0,
+    "status": "BREACH_LOW",
+    "severity": "MEDIUM"
+  },
+  {
+    "date": "2026-11-18",
+    "fc_name": "FC-Delhi",
+    "line_item": "Equipment Rentals",
+    "actual_pct": 1.0,
+    "target_range": "2.0-5.0%",
+    "deviation": -1.0,
+    "status": "BREACH_LOW",
+    "severity": "MEDIUM"
+  },
+  {
+    "date": "2026-11-18",
+    "fc_name": "FC-Delhi",
+    "line_item": "Overheads",
+    "actual_pct": 2.0,
+    "target_range": "3.0-7.0%",
+    "deviation": -1.0,
+    "status": "BREACH_LOW",
+    "severity": "MEDIUM"
+  },
+  {
+    "date": "2026-11-20",
+    "fc_name": "FC-Bangalore",
+    "line_item": "CM1",
+    "actual_pct": 51.5,
+    "target_range": "65.0-70.0%",
+    "deviation": -13.5,
+    "status": "BREACH_LOW",
+    "severity": "HIGH"
+  },
+  {
+    "date": "2026-11-20",
+    "fc_name": "FC-Bangalore",
+    "line_item": "CM2",
+    "actual_pct": 8.0,
+    "target_range": "15.0-30.0%",
+    "deviation": -7.0,
+    "status": "BREACH_LOW",
+    "severity": "HIGH"
+  },
+  {
+    "date": "2026-11-20",
+    "fc_name": "FC-Bangalore",
+    "line_item": "Manpower Cost",
+    "actual_pct": 40.0,
+    "target_range": "20.0-28.0%",
+    "deviation": 12.0,
+    "status": "BREACH_HIGH",
+    "severity": "MEDIUM"
+  },
+  {
+    "date": "2026-11-20",
+    "fc_name": "FC-Bangalore",
+    "line_item": "Power & Fuel",
+    "actual_pct": 14.0,
+    "target_range": "3.0-7.0%",
+    "deviation": 7.0,
+    "status": "BREACH_HIGH",
+    "severity": "MEDIUM"
+  },
+  {
+    "date": "2026-11-20",
+    "fc_name": "FC-Bangalore",
+    "line_item": "Equipment Rentals",
+    "actual_pct": 10.0,
+    "target_range": "2.0-5.0%",
+    "deviation": 5.0,
+    "status": "BREACH_HIGH",
+    "severity": "MEDIUM"
+  },
+  {
+    "date": "2026-11-22",
+    "fc_name": "FC-Mumbai",
+    "line_item": "Manpower Cost",
+    "actual_pct": 30.0,
+    "target_range": "20.0-28.0%",
+    "deviation": 2.0,
+    "status": "BREACH_HIGH",
+    "severity": "MEDIUM"
+  },
+  {
+    "date": "2026-11-23",
+    "fc_name": "FC-Mumbai",
+    "line_item": "CM1",
+    "actual_pct": 57.0,
+    "target_range": "65.0-70.0%",
+    "deviation": -8.0,
+    "status": "BREACH_LOW",
+    "severity": "HIGH"
+  },
+  {
+    "date": "2026-11-23",
+    "fc_name": "FC-Mumbai",
+    "line_item": "Packaging Cost",
+    "actual_pct": 15.0,
+    "target_range": "5.0-10.0%",
+    "deviation": 5.0,
+    "status": "BREACH_HIGH",
+    "severity": "MEDIUM"
+  },
+  {
+    "date": "2026-11-23",
+    "fc_name": "FC-Mumbai",
+    "line_item": "FC Rent",
+    "actual_pct": 22.0,
+    "target_range": "8.0-15.0%",
+    "deviation": 7.0,
+    "status": "BREACH_HIGH",
+    "severity": "MEDIUM"
+  },
+  {
+    "date": "2026-11-23",
+    "fc_name": "FC-Mumbai",
+    "line_item": "Overheads",
+    "actual_pct": 10.0,
+    "target_range": "3.0-7.0%",
+    "deviation": 3.0,
+    "status": "BREACH_HIGH",
+    "severity": "MEDIUM"
+  },
+  {
+    "date": "2026-11-25",
+    "fc_name": "FC-Delhi",
+    "line_item": "CM1",
+    "actual_pct": 54.5,
+    "target_range": "65.0-70.0%",
+    "deviation": -10.5,
+    "status": "BREACH_LOW",
+    "severity": "HIGH"
+  },
+  {
+    "date": "2026-11-25",
+    "fc_name": "FC-Delhi",
+    "line_item": "CM2",
+    "actual_pct": 8.2,
+    "target_range": "15.0-30.0%",
+    "deviation": -6.8,
+    "status": "BREACH_LOW",
+    "severity": "HIGH"
+  },
+  {
+    "date": "2026-11-25",
+    "fc_name": "FC-Delhi",
+    "line_item": "Manpower Cost",
+    "actual_pct": 36.0,
+    "target_range": "20.0-28.0%",
+    "deviation": 8.0,
+    "status": "BREACH_HIGH",
+    "severity": "MEDIUM"
+  },
+  {
+    "date": "2026-11-25",
+    "fc_name": "FC-Delhi",
+    "line_item": "FC Rent",
+    "actual_pct": 28.0,
+    "target_range": "8.0-15.0%",
+    "deviation": 13.0,
+    "status": "BREACH_HIGH",
+    "severity": "MEDIUM"
+  },
+  {
+    "date": "2026-11-27",
+    "fc_name": "FC-Mumbai",
+    "line_item": "CM1",
+    "actual_pct": 78.0,
+    "target_range": "65.0-70.0%",
+    "deviation": 8.0,
+    "status": "BREACH_HIGH",
+    "severity": "HIGH"
+  },
+  {
+    "date": "2026-11-27",
+    "fc_name": "FC-Mumbai",
+    "line_item": "CM2",
+    "actual_pct": 58.0,
+    "target_range": "15.0-30.0%",
+    "deviation": 28.0,
+    "status": "BREACH_HIGH",
+    "severity": "HIGH"
+  },
+  {
+    "date": "2026-11-27",
+    "fc_name": "FC-Mumbai",
+    "line_item": "Manpower Cost",
+    "actual_pct": 18.0,
+    "target_range": "20.0-28.0%",
+    "deviation": -2.0,
+    "status": "BREACH_LOW",
+    "severity": "MEDIUM"
+  },
+  {
+    "date": "2026-11-27",
+    "fc_name": "FC-Mumbai",
+    "line_item": "Packaging Cost",
+    "actual_pct": 4.0,
+    "target_range": "5.0-10.0%",
+    "deviation": -1.0,
+    "status": "BREACH_LOW",
+    "severity": "MEDIUM"
+  }
+]
